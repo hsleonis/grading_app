@@ -1,7 +1,7 @@
 # Grading app
 Small app in flask displaying student grades.
 
-### Add CSV in this format:
+### Add CSV in this format (grades.csv):
 | First name | Surname | Student ID | Grade 1a | Grade 1b | ... | Grade | Total | Percentage |
 |------------|---------|------------|----------|----------|-----|-------|-------|------------|
 |            |         |            |          |          |     |       |       |            |
